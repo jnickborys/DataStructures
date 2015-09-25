@@ -1,0 +1,738 @@
+Currently logging to "gdb.txt".
+Logs will be appended to the log file.
+Output is being logged and displayed.
+Starting program: C:\MinGW\msys\1.0\home\jeremy\cpp\programInterviewsExposed\src/test.exe 
+[New Thread 5604.0x2814]
+[New Thread 5604.0x1ca8]
+[New Thread 5604.0x3280]
+[Inferior 1 (process 5604) exited normally]
+Starting program: C:\MinGW\msys\1.0\home\jeremy\cpp\programInterviewsExposed\src/test.exe 
+[New Thread 12404.0x2338]
+[New Thread 12404.0x1660]
+[New Thread 12404.0x2f80]
+[New Thread 12404.0x25ec]
+[Inferior 1 (process 12404) exited normally]
+Function "b" not defined.
+Argument list to give program being debugged when it is started is "".
+Executable and object file path: .;C:\MinGW\msys\1.0\local\bin;C:\mingw\bin;C:\MinGW\msys\1.0\bin;c:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\CMake\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;c:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;c:\Program Files (x86)\WinSCP\;c:\Program Files\MATLAB\R2015b\runtime\win64;c:\Program Files\MATLAB\R2015b\bin;c:\Users\jeremy\Anaconda;c:\Users\jeremy\Anaconda\Scripts;c:\ruby200\bin;c:\Users\jeremy\AppData\Roaming\Python\Scripts;C:\mingw\bin;c:\Chocolatey\bin;c:\Users\jeremy\Documents\Programming\adt-bundle-windows-x86_64-20140702\sdk\platform-tools;c:\gstreamer-sdk\0.10\x86\bin;c:\Python27;c:\Git\bin
+Executable and object file path: .;C:\MinGW\msys\1.0\local\bin;C:\mingw\bin;C:\MinGW\msys\1.0\bin;c:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\CMake\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;c:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;c:\Program Files (x86)\WinSCP\;c:\Program Files\MATLAB\R2015b\runtime\win64;c:\Program Files\MATLAB\R2015b\bin;c:\Users\jeremy\Anaconda;c:\Users\jeremy\Anaconda\Scripts;c:\ruby200\bin;c:\Users\jeremy\AppData\Roaming\Python\Scripts;C:\mingw\bin;c:\Chocolatey\bin;c:\Users\jeremy\Documents\Programming\adt-bundle-windows-x86_64-20140702\sdk\platform-tools;c:\gstreamer-sdk\0.10\x86\bin;c:\Python27;c:\Git\bin
+Working directory C:\MinGW\msys\1.0\home\jeremy\cpp\programInterviewsExposed\src.
+Argument required (filename to set it to.).
+Undefined command: "ls".  Try "help".
+Undefined command: "ll".  Try "help".
+Starting program: C:\MinGW\msys\1.0\home\jeremy\cpp\programInterviewsExposed\src/test.exe 
+warning: Warning: Failed to open TTY /dev/conin, error 0x3.
+[New Thread 10748.0x8ec]
+[New Thread 10748.0x334]
+[New Thread 10748.0x24b0]
+[New Thread 10748.0x2fdc]
+[Inferior 1 (process 10748) exited normally]
+Starting program: C:\MinGW\msys\1.0\home\jeremy\cpp\programInterviewsExposed\src/test.exe 
+warning: Warning: Failed to open TTY /dev/conin, error 0x3.
+[New Thread 9116.0x3224]
+[New Thread 9116.0x21c4]
+[New Thread 9116.0x2760]
+[New Thread 9116.0x30a4]
+[Inferior 1 (process 9116) exited normally]
+  Num  Description       Executable        
+* 1    <null>            C:\MinGW\msys\1.0\home\jeremy\cpp\programInterviewsExposed\src/test.exe 
+Added inferior 2.
+  Num  Description       Executable        
+  2    <null>            C:\MinGW\msys\1.0\home\jeremy\cpp\programInterviewsExposed\src/test.exe 
+* 1    <null>            C:\MinGW\msys\1.0\home\jeremy\cpp\programInterviewsExposed\src/test.exe 
+Starting program: C:\MinGW\msys\1.0\home\jeremy\cpp\programInterviewsExposed\src/test.exe 
+warning: Warning: Failed to open TTY /dev/conin, error 0x3.
+[New Thread 11884.0x13c0]
+[New Thread 11884.0xb64]
+[New Thread 11884.0x6a0]
+[New Thread 11884.0x338]
+[Inferior 1 (process 11884) exited normally]
+Argument required (filename to set it to.).
+Set terminal for future runs of program being debugged.
+Usage: set inferior-tty /dev/pts/1
+No thread selected
+The program is not being run.
+Undefined command: "$bpnum".  Try "help".
+Breakpoint 2 at 0x4039e7: C:\MinGW\msys\1.0\home\jeremy\cpp\programInterviewsExposed\src\main.cpp:print_list<int>(Elem<int>*). (2 locations)
+void print_list<int>(Elem<int>*);
+Breakpoint 3 at 0x76693d45
+<function, no debug info> KERNELBASE!hwprintf;
+Note: breakpoint 3 also set at pc 0x76693d45.
+Breakpoint 4 at 0x76693d45
+<function, no debug info> hwprintf;
+Breakpoint 5 at 0x76693e65
+<function, no debug info> KERNELBASE!wprintf;
+Note: breakpoint 5 also set at pc 0x76693e65.
+Breakpoint 6 at 0x76693e65 (2 locations)
+<function, no debug info> wprintf;
+Breakpoint 7 at 0x7718f6e8
+<function, no debug info> isprint_l;
+Note: breakpoint 7 also set at pc 0x7718f6e8.
+Breakpoint 8 at 0x7718f6e8
+<function, no debug info> msvcrt!_isprint_l;
+Breakpoint 9 at 0x7718fa55
+<function, no debug info> isprint;
+Note: breakpoint 9 also set at pc 0x7718fa55.
+Breakpoint 10 at 0x7718fa55
+<function, no debug info> msvcrt!isprint;
+Breakpoint 11 at 0x77190fb5
+<function, no debug info> iswprint_l;
+Note: breakpoint 11 also set at pc 0x77190fb5.
+Breakpoint 12 at 0x77190fb5
+<function, no debug info> msvcrt!_iswprint_l;
+Breakpoint 13 at 0x77191155
+<function, no debug info> iswprint;
+Note: breakpoint 13 also set at pc 0x77191155.
+Breakpoint 14 at 0x77191155
+<function, no debug info> msvcrt!iswprint;
+Breakpoint 15 at 0x771aedc5
+<function, no debug info> ismbbkprint;
+Note: breakpoint 15 also set at pc 0x771aedc5.
+Breakpoint 16 at 0x771aedc5
+<function, no debug info> msvcrt!_ismbbkprint;
+Breakpoint 17 at 0x771aede5
+<function, no debug info> ismbbkprint_l;
+Note: breakpoint 17 also set at pc 0x771aede5.
+Breakpoint 18 at 0x771aede5
+<function, no debug info> msvcrt!_ismbbkprint_l;
+Breakpoint 19 at 0x771aee85
+<function, no debug info> ismbbprint;
+Note: breakpoint 19 also set at pc 0x771aee85.
+Breakpoint 20 at 0x771aee85
+<function, no debug info> msvcrt!_ismbbprint;
+Breakpoint 21 at 0x771aeea5
+<function, no debug info> ismbbprint_l;
+Note: breakpoint 21 also set at pc 0x771aeea5.
+Breakpoint 22 at 0x771aeea5
+<function, no debug info> msvcrt!_ismbbprint_l;
+Breakpoint 23 at 0x771af6e5
+<function, no debug info> ismbcprint;
+Note: breakpoint 23 also set at pc 0x771af6e5.
+Breakpoint 24 at 0x771af6e5
+<function, no debug info> msvcrt!_ismbcprint;
+Breakpoint 25 at 0x771af708
+<function, no debug info> ismbcprint_l;
+Note: breakpoint 25 also set at pc 0x771af708.
+Breakpoint 26 at 0x771af708
+<function, no debug info> msvcrt!_ismbcprint_l;
+Breakpoint 27 at 0x771c0715
+<function, no debug info> msvcrt!_snprintf_s;
+Note: breakpoint 27 also set at pc 0x771c0715.
+Breakpoint 28 at 0x771c0715
+<function, no debug info> snprintf_s;
+Breakpoint 29 at 0x771c0745
+<function, no debug info> msvcrt!_vsnprintf_s;
+Note: breakpoint 29 also set at pc 0x771c0745.
+Breakpoint 30 at 0x771c0745
+<function, no debug info> vsnprintf_s;
+Breakpoint 31 at 0x771c0865
+<function, no debug info> msvcrt!_snwprintf_s;
+Note: breakpoint 31 also set at pc 0x771c0865.
+Breakpoint 32 at 0x771c0865
+<function, no debug info> snwprintf_s;
+Breakpoint 33 at 0x771c0895
+<function, no debug info> msvcrt!_vsnwprintf_s;
+Note: breakpoint 33 also set at pc 0x771c0895.
+Breakpoint 34 at 0x771c0895
+<function, no debug info> vsnwprintf_s;
+Breakpoint 35 at 0x771c2e35
+<function, no debug info> msvcrt!sprintf_s;
+Note: breakpoint 35 also set at pc 0x771c2e35.
+Breakpoint 36 at 0x771c2e35
+<function, no debug info> sprintf_s;
+Breakpoint 37 at 0x771c2e67
+<function, no debug info> msvcrt!vsprintf_s;
+Note: breakpoint 37 also set at pc 0x771c2e67.
+Breakpoint 38 at 0x771c2e67
+<function, no debug info> vsprintf_s;
+Breakpoint 39 at 0x771c2f35
+<function, no debug info> msvcrt!swprintf_s;
+Note: breakpoint 39 also set at pc 0x771c2f35.
+Breakpoint 40 at 0x771c2f35
+<function, no debug info> swprintf_s;
+Breakpoint 41 at 0x771c2f66
+<function, no debug info> msvcrt!vswprintf_s;
+Note: breakpoint 41 also set at pc 0x771c2f66.
+Breakpoint 42 at 0x771c2f66
+<function, no debug info> vswprintf_s;
+Breakpoint 43 at 0x771c8da5
+<function, no debug info> cprintf;
+Note: breakpoint 43 also set at pc 0x771c8da5.
+Breakpoint 44 at 0x771c8da5
+<function, no debug info> msvcrt!_cprintf;
+Breakpoint 45 at 0x771c8dc5
+<function, no debug info> cprintf_l;
+Note: breakpoint 45 also set at pc 0x771c8dc5.
+Breakpoint 46 at 0x771c8dc5
+<function, no debug info> msvcrt!_cprintf_l;
+Breakpoint 47 at 0x771c8de5
+<function, no debug info> msvcrt!_vcprintf;
+Note: breakpoint 47 also set at pc 0x771c8de5.
+Breakpoint 48 at 0x771c8de5
+<function, no debug info> vcprintf;
+Breakpoint 49 at 0x771c8e0b
+<function, no debug info> msvcrt!_vcprintf_l;
+Note: breakpoint 49 also set at pc 0x771c8e0b.
+Breakpoint 50 at 0x771c8e0b
+<function, no debug info> vcprintf_l;
+Breakpoint 51 at 0x771c9905
+<function, no debug info> cprintf_p;
+Note: breakpoint 51 also set at pc 0x771c9905.
+Breakpoint 52 at 0x771c9905
+<function, no debug info> msvcrt!_cprintf_p;
+Breakpoint 53 at 0x771c9925
+<function, no debug info> cprintf_p_l;
+Note: breakpoint 53 also set at pc 0x771c9925.
+Breakpoint 54 at 0x771c9925
+<function, no debug info> msvcrt!_cprintf_p_l;
+Breakpoint 55 at 0x771c9945
+<function, no debug info> msvcrt!_vcprintf_p;
+Note: breakpoint 55 also set at pc 0x771c9945.
+Breakpoint 56 at 0x771c9945
+<function, no debug info> vcprintf_p;
+Breakpoint 57 at 0x771c996b
+<function, no debug info> msvcrt!_vcprintf_p_l;
+Note: breakpoint 57 also set at pc 0x771c996b.
+Breakpoint 58 at 0x771c996b
+<function, no debug info> vcprintf_p_l;
+Breakpoint 59 at 0x771cacb5
+<function, no debug info> cprintf_s;
+Note: breakpoint 59 also set at pc 0x771cacb5.
+Breakpoint 60 at 0x771cacb5
+<function, no debug info> msvcrt!_cprintf_s;
+Breakpoint 61 at 0x771cacd5
+<function, no debug info> cprintf_s_l;
+Note: breakpoint 61 also set at pc 0x771cacd5.
+Breakpoint 62 at 0x771cacd5
+<function, no debug info> msvcrt!_cprintf_s_l;
+Breakpoint 63 at 0x771cacf5
+<function, no debug info> msvcrt!_vcprintf_s;
+Note: breakpoint 63 also set at pc 0x771cacf5.
+Breakpoint 64 at 0x771cacf5
+<function, no debug info> vcprintf_s;
+Breakpoint 65 at 0x771cad1b
+<function, no debug info> msvcrt!_vcprintf_s_l;
+Note: breakpoint 65 also set at pc 0x771cad1b.
+Breakpoint 66 at 0x771cad1b
+<function, no debug info> vcprintf_s_l;
+Breakpoint 67 at 0x771cd995
+<function, no debug info> cwprintf;
+Note: breakpoint 67 also set at pc 0x771cd995.
+Breakpoint 68 at 0x771cd995
+<function, no debug info> msvcrt!_cwprintf;
+Breakpoint 69 at 0x771cd9b5
+<function, no debug info> cwprintf_l;
+Note: breakpoint 69 also set at pc 0x771cd9b5.
+Breakpoint 70 at 0x771cd9b5
+<function, no debug info> msvcrt!_cwprintf_l;
+Breakpoint 71 at 0x771cd9d5
+<function, no debug info> msvcrt!_vcwprintf;
+Note: breakpoint 71 also set at pc 0x771cd9d5.
+Breakpoint 72 at 0x771cd9d5
+<function, no debug info> vcwprintf;
+Breakpoint 73 at 0x771cd9fb
+<function, no debug info> msvcrt!_vcwprintf_l;
+Note: breakpoint 73 also set at pc 0x771cd9fb.
+Breakpoint 74 at 0x771cd9fb
+<function, no debug info> vcwprintf_l;
+Breakpoint 75 at 0x771ce625
+<function, no debug info> cwprintf_p;
+Note: breakpoint 75 also set at pc 0x771ce625.
+Breakpoint 76 at 0x771ce625
+<function, no debug info> msvcrt!_cwprintf_p;
+Breakpoint 77 at 0x771ce645
+<function, no debug info> cwprintf_p_l;
+Note: breakpoint 77 also set at pc 0x771ce645.
+Breakpoint 78 at 0x771ce645
+<function, no debug info> msvcrt!_cwprintf_p_l;
+Breakpoint 79 at 0x771ce665
+<function, no debug info> msvcrt!_vcwprintf_p;
+Note: breakpoint 79 also set at pc 0x771ce665.
+Breakpoint 80 at 0x771ce665
+<function, no debug info> vcwprintf_p;
+Breakpoint 81 at 0x771ce68b
+<function, no debug info> msvcrt!_vcwprintf_p_l;
+Note: breakpoint 81 also set at pc 0x771ce68b.
+Breakpoint 82 at 0x771ce68b
+<function, no debug info> vcwprintf_p_l;
+Breakpoint 83 at 0x771cf9a5
+<function, no debug info> cwprintf_s;
+Note: breakpoint 83 also set at pc 0x771cf9a5.
+Breakpoint 84 at 0x771cf9a5
+<function, no debug info> msvcrt!_cwprintf_s;
+Breakpoint 85 at 0x771cf9c5
+<function, no debug info> cwprintf_s_l;
+Note: breakpoint 85 also set at pc 0x771cf9c5.
+Breakpoint 86 at 0x771cf9c5
+<function, no debug info> msvcrt!_cwprintf_s_l;
+Breakpoint 87 at 0x771cf9e5
+<function, no debug info> msvcrt!_vcwprintf_s;
+Note: breakpoint 87 also set at pc 0x771cf9e5.
+Breakpoint 88 at 0x771cf9e5
+<function, no debug info> vcwprintf_s;
+Breakpoint 89 at 0x771cfa0b
+<function, no debug info> msvcrt!_vcwprintf_s_l;
+Note: breakpoint 89 also set at pc 0x771cfa0b.
+Breakpoint 90 at 0x771cfa0b
+<function, no debug info> vcwprintf_s_l;
+Breakpoint 91 at 0x771d3495
+<function, no debug info> fprintf_l;
+Note: breakpoint 91 also set at pc 0x771d3495.
+Breakpoint 92 at 0x771d3495
+<function, no debug info> msvcrt!_fprintf_l;
+Breakpoint 93 at 0x771d34c5
+<function, no debug info> fprintf_p;
+Note: breakpoint 93 also set at pc 0x771d34c5.
+Breakpoint 94 at 0x771d34c5
+<function, no debug info> msvcrt!_fprintf_p;
+Breakpoint 95 at 0x771d34e5
+<function, no debug info> fprintf_p_l;
+Note: breakpoint 95 also set at pc 0x771d34e5.
+Breakpoint 96 at 0x771d34e5
+<function, no debug info> msvcrt!_fprintf_p_l;
+Breakpoint 97 at 0x771d3515
+<function, no debug info> fprintf_s_l;
+Note: breakpoint 97 also set at pc 0x771d3515.
+Breakpoint 98 at 0x771d3515
+<function, no debug info> msvcrt!_fprintf_s_l;
+Breakpoint 99 at 0x771d3540
+<function, no debug info> fprintf;
+Note: breakpoint 99 also set at pc 0x771d3540.
+Breakpoint 100 at 0x771d3540
+<function, no debug info> msvcrt!fprintf;
+Breakpoint 101 at 0x771d3675
+<function, no debug info> fprintf_s;
+Note: breakpoint 101 also set at pc 0x771d3675.
+Breakpoint 102 at 0x771d3675
+<function, no debug info> msvcrt!fprintf_s;
+Breakpoint 103 at 0x771d3b55
+<function, no debug info> fwprintf_l;
+Note: breakpoint 103 also set at pc 0x771d3b55.
+Breakpoint 104 at 0x771d3b55
+<function, no debug info> msvcrt!_fwprintf_l;
+Breakpoint 105 at 0x771d3b85
+<function, no debug info> fwprintf_p;
+Note: breakpoint 105 also set at pc 0x771d3b85.
+Breakpoint 106 at 0x771d3b85
+<function, no debug info> msvcrt!_fwprintf_p;
+Breakpoint 107 at 0x771d3ba5
+<function, no debug info> fwprintf_p_l;
+Note: breakpoint 107 also set at pc 0x771d3ba5.
+Breakpoint 108 at 0x771d3ba5
+<function, no debug info> msvcrt!_fwprintf_p_l;
+Breakpoint 109 at 0x771d3bd5
+<function, no debug info> fwprintf_s_l;
+Note: breakpoint 109 also set at pc 0x771d3bd5.
+Breakpoint 110 at 0x771d3bd5
+<function, no debug info> msvcrt!_fwprintf_s_l;
+Breakpoint 111 at 0x771d3c00
+<function, no debug info> fwprintf;
+Note: breakpoint 111 also set at pc 0x771d3c00.
+Breakpoint 112 at 0x771d3c00
+<function, no debug info> msvcrt!fwprintf;
+Breakpoint 113 at 0x771d3ca5
+<function, no debug info> fwprintf_s;
+Note: breakpoint 113 also set at pc 0x771d3ca5.
+Breakpoint 114 at 0x771d3ca5
+<function, no debug info> msvcrt!fwprintf_s;
+Breakpoint 115 at 0x771d4825
+<function, no debug info> msvcrt!_printf_l;
+Note: breakpoint 115 also set at pc 0x771d4825.
+Breakpoint 116 at 0x771d4825
+<function, no debug info> printf_l;
+Breakpoint 117 at 0x771d4845
+<function, no debug info> msvcrt!_printf_p;
+Note: breakpoint 117 also set at pc 0x771d4845.
+Breakpoint 118 at 0x771d4845
+<function, no debug info> printf_p;
+Breakpoint 119 at 0x771d4865
+<function, no debug info> msvcrt!_printf_p_l;
+Note: breakpoint 119 also set at pc 0x771d4865.
+Breakpoint 120 at 0x771d4865
+<function, no debug info> printf_p_l;
+Breakpoint 121 at 0x771d4885
+<function, no debug info> msvcrt!_printf_s_l;
+Note: breakpoint 121 also set at pc 0x771d4885.
+Breakpoint 122 at 0x771d4885
+<function, no debug info> printf_s_l;
+Breakpoint 123 at 0x771d48a0
+<function, no debug info> msvcrt!printf;
+Note: breakpoint 123 also set at pc 0x771d48a0.
+Breakpoint 124 at 0x771d48a0
+<function, no debug info> printf;
+Breakpoint 125 at 0x771d4945
+<function, no debug info> msvcrt!printf_s;
+Note: breakpoint 125 also set at pc 0x771d4945.
+Breakpoint 126 at 0x771d4945
+<function, no debug info> printf_s;
+Breakpoint 127 at 0x771d4c45
+<function, no debug info> msvcrt!_scprintf;
+Note: breakpoint 127 also set at pc 0x771d4c45.
+Breakpoint 128 at 0x771d4c45
+<function, no debug info> scprintf;
+Breakpoint 129 at 0x771d4c65
+<function, no debug info> msvcrt!_scprintf_l;
+Note: breakpoint 129 also set at pc 0x771d4c65.
+Breakpoint 130 at 0x771d4c65
+<function, no debug info> scprintf_l;
+Breakpoint 131 at 0x771d4c85
+<function, no debug info> msvcrt!_scprintf_p_l;
+Note: breakpoint 131 also set at pc 0x771d4c85.
+Breakpoint 132 at 0x771d4c85
+<function, no debug info> scprintf_p_l;
+Breakpoint 133 at 0x771d4ca5
+<function, no debug info> msvcrt!_snprintf_s_l;
+Note: breakpoint 133 also set at pc 0x771d4ca5.
+Breakpoint 134 at 0x771d4ca5
+<function, no debug info> snprintf_s_l;
+Breakpoint 135 at 0x771d4cd5
+<function, no debug info> msvcrt!_sprintf_l;
+Note: breakpoint 135 also set at pc 0x771d4cd5.
+Breakpoint 136 at 0x771d4cd5
+<function, no debug info> sprintf_l;
+Breakpoint 137 at 0x771d4d05
+<function, no debug info> msvcrt!_sprintf_p_l;
+Note: breakpoint 137 also set at pc 0x771d4d05.
+Breakpoint 138 at 0x771d4d05
+<function, no debug info> sprintf_p_l;
+Breakpoint 139 at 0x771d4d35
+<function, no debug info> msvcrt!_sprintf_s_l;
+Note: breakpoint 139 also set at pc 0x771d4d35.
+Breakpoint 140 at 0x771d4d35
+<function, no debug info> sprintf_s_l;
+Breakpoint 141 at 0x771d4d68
+<function, no debug info> msvcrt!sprintf;
+Note: breakpoint 141 also set at pc 0x771d4d68.
+Breakpoint 142 at 0x771d4d68
+<function, no debug info> sprintf;
+Breakpoint 143 at 0x771d4df5
+<function, no debug info> msvcrt!_scwprintf;
+Note: breakpoint 143 also set at pc 0x771d4df5.
+Breakpoint 144 at 0x771d4df5
+<function, no debug info> scwprintf;
+Breakpoint 145 at 0x771d4e15
+<function, no debug info> msvcrt!_scwprintf_l;
+Note: breakpoint 145 also set at pc 0x771d4e15.
+Breakpoint 146 at 0x771d4e15
+<function, no debug info> scwprintf_l;
+Breakpoint 147 at 0x771d4e35
+<function, no debug info> msvcrt!_scwprintf_p_l;
+Note: breakpoint 147 also set at pc 0x771d4e35.
+Breakpoint 148 at 0x771d4e35
+<function, no debug info> scwprintf_p_l;
+Breakpoint 149 at 0x771d4e55
+<function, no debug info> msvcrt!_snwprintf_s_l;
+Note: breakpoint 149 also set at pc 0x771d4e55.
+Breakpoint 150 at 0x771d4e55
+<function, no debug info> snwprintf_s_l;
+Breakpoint 151 at 0x771d4e88
+<function, no debug info> msvcrt!_swprintf;
+Note: breakpoint 151 also set at pc 0x771d4e88.
+Breakpoint 152 at 0x771d4e88
+<function, no debug info> msvcrt!swprintf;
+Note: breakpoints 151 and 152 also set at pc 0x771d4e88.
+Breakpoint 153 at 0x771d4e88
+<function, no debug info> swprintf;
+Breakpoint 154 at 0x771d4f35
+<function, no debug info> msvcrt!_swprintf_p_l;
+Note: breakpoint 154 also set at pc 0x771d4f35.
+Breakpoint 155 at 0x771d4f35
+<function, no debug info> swprintf_p_l;
+Breakpoint 156 at 0x771d4f65
+<function, no debug info> msvcrt!_swprintf_s_l;
+Note: breakpoint 156 also set at pc 0x771d4f65.
+Breakpoint 157 at 0x771d4f65
+<function, no debug info> swprintf_s_l;
+Breakpoint 158 at 0x771d4f98
+<function, no debug info> msvcrt!_snprintf;
+Note: breakpoint 158 also set at pc 0x771d4f98.
+Breakpoint 159 at 0x771d4f98
+<function, no debug info> snprintf;
+Breakpoint 160 at 0x771d5055
+<function, no debug info> msvcrt!_snprintf_l;
+Note: breakpoint 160 also set at pc 0x771d5055.
+Breakpoint 161 at 0x771d5055
+<function, no debug info> snprintf_l;
+Breakpoint 162 at 0x771d5088
+<function, no debug info> msvcrt!_snprintf_c;
+Note: breakpoint 162 also set at pc 0x771d5088.
+Breakpoint 163 at 0x771d5088
+<function, no debug info> snprintf_c;
+Breakpoint 164 at 0x771d5155
+<function, no debug info> msvcrt!_snprintf_c_l;
+Note: breakpoint 164 also set at pc 0x771d5155.
+Breakpoint 165 at 0x771d5155
+<function, no debug info> snprintf_c_l;
+Breakpoint 166 at 0x771d52a8
+<function, no debug info> msvcrt!_snwprintf;
+Note: breakpoint 166 also set at pc 0x771d52a8.
+Breakpoint 167 at 0x771d52a8
+<function, no debug info> snwprintf;
+Breakpoint 168 at 0x771d5395
+<function, no debug info> msvcrt!_snwprintf_l;
+Note: breakpoint 168 also set at pc 0x771d5395.
+Breakpoint 169 at 0x771d5395
+<function, no debug info> snwprintf_l;
+Breakpoint 170 at 0x771d5608
+<function, no debug info> msvcrt!_swprintf_c;
+Note: breakpoint 170 also set at pc 0x771d5608.
+Breakpoint 171 at 0x771d5608
+<function, no debug info> swprintf_c;
+Breakpoint 172 at 0x771d5705
+<function, no debug info> msvcrt!_swprintf_c_l;
+Note: breakpoint 172 also set at pc 0x771d5705.
+Breakpoint 173 at 0x771d5705
+<function, no debug info> swprintf_c_l;
+Breakpoint 174 at 0x771d5af5
+<function, no debug info> msvcrt!_vfprintf_l;
+Note: breakpoint 174 also set at pc 0x771d5af5.
+Breakpoint 175 at 0x771d5af5
+<function, no debug info> vfprintf_l;
+Breakpoint 176 at 0x771d5b25
+<function, no debug info> msvcrt!_vfprintf_p;
+Note: breakpoint 176 also set at pc 0x771d5b25.
+Breakpoint 177 at 0x771d5b25
+<function, no debug info> vfprintf_p;
+Breakpoint 178 at 0x771d5b55
+<function, no debug info> msvcrt!_vfprintf_p_l;
+Note: breakpoint 178 also set at pc 0x771d5b55.
+Breakpoint 179 at 0x771d5b55
+<function, no debug info> vfprintf_p_l;
+Breakpoint 180 at 0x771d5b85
+<function, no debug info> msvcrt!_vfprintf_s_l;
+Note: breakpoint 180 also set at pc 0x771d5b85.
+Breakpoint 181 at 0x771d5b85
+<function, no debug info> vfprintf_s_l;
+Breakpoint 182 at 0x771d5bb5
+<function, no debug info> msvcrt!vfprintf;
+Note: breakpoint 182 also set at pc 0x771d5bb5.
+Breakpoint 183 at 0x4038d0 (3 locations)
+<function, no debug info> vfprintf;
+Breakpoint 184 at 0x771d5d15
+<function, no debug info> msvcrt!vfprintf_s;
+Note: breakpoint 184 also set at pc 0x771d5d15.
+Breakpoint 185 at 0x771d5d15
+<function, no debug info> vfprintf_s;
+Breakpoint 186 at 0x771d5d45
+<function, no debug info> msvcrt!_vfwprintf_l;
+Note: breakpoint 186 also set at pc 0x771d5d45.
+Breakpoint 187 at 0x771d5d45
+<function, no debug info> vfwprintf_l;
+Breakpoint 188 at 0x771d5d75
+<function, no debug info> msvcrt!_vfwprintf_p;
+Note: breakpoint 188 also set at pc 0x771d5d75.
+Breakpoint 189 at 0x771d5d75
+<function, no debug info> vfwprintf_p;
+Breakpoint 190 at 0x771d5da5
+<function, no debug info> msvcrt!_vfwprintf_p_l;
+Note: breakpoint 190 also set at pc 0x771d5da5.
+Breakpoint 191 at 0x771d5da5
+<function, no debug info> vfwprintf_p_l;
+Breakpoint 192 at 0x771d5dd5
+<function, no debug info> msvcrt!_vfwprintf_s_l;
+Note: breakpoint 192 also set at pc 0x771d5dd5.
+Breakpoint 193 at 0x771d5dd5
+<function, no debug info> vfwprintf_s_l;
+Breakpoint 194 at 0x771d5e05
+<function, no debug info> msvcrt!vfwprintf;
+Note: breakpoint 194 also set at pc 0x771d5e05.
+Breakpoint 195 at 0x771d5e05
+<function, no debug info> vfwprintf;
+Breakpoint 196 at 0x771d5ed5
+<function, no debug info> msvcrt!vfwprintf_s;
+Note: breakpoint 196 also set at pc 0x771d5ed5.
+Breakpoint 197 at 0x771d5ed5
+<function, no debug info> vfwprintf_s;
+Breakpoint 198 at 0x771d5f05
+<function, no debug info> msvcrt!_vprintf_l;
+Note: breakpoint 198 also set at pc 0x771d5f05.
+Breakpoint 199 at 0x771d5f05
+<function, no debug info> vprintf_l;
+Breakpoint 200 at 0x771d5f35
+<function, no debug info> msvcrt!_vprintf_p;
+Note: breakpoint 200 also set at pc 0x771d5f35.
+Breakpoint 201 at 0x771d5f35
+<function, no debug info> vprintf_p;
+Breakpoint 202 at 0x771d5f65
+<function, no debug info> msvcrt!_vprintf_p_l;
+Note: breakpoint 202 also set at pc 0x771d5f65.
+Breakpoint 203 at 0x771d5f65
+<function, no debug info> vprintf_p_l;
+Breakpoint 204 at 0x771d5f95
+<function, no debug info> msvcrt!_vprintf_s_l;
+Note: breakpoint 204 also set at pc 0x771d5f95.
+Breakpoint 205 at 0x771d5f95
+<function, no debug info> vprintf_s_l;
+Breakpoint 206 at 0x771d5fc5
+<function, no debug info> msvcrt!vprintf;
+Note: breakpoint 206 also set at pc 0x771d5fc5.
+Breakpoint 207 at 0x771d5fc5
+<function, no debug info> vprintf;
+Breakpoint 208 at 0x771d6085
+<function, no debug info> msvcrt!vprintf_s;
+Note: breakpoint 208 also set at pc 0x771d6085.
+Breakpoint 209 at 0x771d6085
+<function, no debug info> vprintf_s;
+Breakpoint 210 at 0x771d60b5
+<function, no debug info> msvcrt!_vscprintf;
+Note: breakpoint 210 also set at pc 0x771d60b5.
+Breakpoint 211 at 0x771d60b5
+<function, no debug info> vscprintf;
+Breakpoint 212 at 0x771d60e5
+<function, no debug info> msvcrt!_vscprintf_l;
+Note: breakpoint 212 also set at pc 0x771d60e5.
+Breakpoint 213 at 0x771d60e5
+<function, no debug info> vscprintf_l;
+Breakpoint 214 at 0x771d6115
+<function, no debug info> msvcrt!_vscprintf_p_l;
+Note: breakpoint 214 also set at pc 0x771d6115.
+Breakpoint 215 at 0x771d6115
+<function, no debug info> vscprintf_p_l;
+Breakpoint 216 at 0x771d6148
+<function, no debug info> msvcrt!_vsprintf_l;
+Note: breakpoint 216 also set at pc 0x771d6148.
+Breakpoint 217 at 0x771d6148
+<function, no debug info> vsprintf_l;
+Breakpoint 218 at 0x771d61d5
+<function, no debug info> msvcrt!vsprintf;
+Note: breakpoint 218 also set at pc 0x771d61d5.
+Breakpoint 219 at 0x771d61d5
+<function, no debug info> vsprintf;
+Breakpoint 220 at 0x771d61f5
+<function, no debug info> msvcrt!_vscwprintf;
+Note: breakpoint 220 also set at pc 0x771d61f5.
+Breakpoint 221 at 0x771d61f5
+<function, no debug info> vscwprintf;
+Breakpoint 222 at 0x771d6295
+<function, no debug info> msvcrt!_vscwprintf_l;
+Note: breakpoint 222 also set at pc 0x771d6295.
+Breakpoint 223 at 0x771d6295
+<function, no debug info> vscwprintf_l;
+Breakpoint 224 at 0x771d62c5
+<function, no debug info> msvcrt!_vscwprintf_p_l;
+Note: breakpoint 224 also set at pc 0x771d62c5.
+Breakpoint 225 at 0x771d62c5
+<function, no debug info> vscwprintf_p_l;
+Breakpoint 226 at 0x771d62f8
+<function, no debug info> msvcrt!_vswprintf_l;
+Note: breakpoint 226 also set at pc 0x771d62f8.
+Breakpoint 227 at 0x771d62f8
+<function, no debug info> vswprintf_l;
+Breakpoint 228 at 0x771d63a5
+<function, no debug info> msvcrt!_vsnprintf;
+Note: breakpoint 228 also set at pc 0x771d63a5.
+Breakpoint 229 at 0x771d63a5
+<function, no debug info> msvcrt!vsnprintf;
+Note: breakpoints 228 and 229 also set at pc 0x771d63a5.
+Breakpoint 230 at 0x771d63a5
+<function, no debug info> vsnprintf;
+Breakpoint 231 at 0x771d63d8
+<function, no debug info> msvcrt!_vsnprintf_l;
+Note: breakpoint 231 also set at pc 0x771d63d8.
+Breakpoint 232 at 0x771d63d8
+<function, no debug info> vsnprintf_l;
+Breakpoint 233 at 0x771d6495
+<function, no debug info> msvcrt!_vsnprintf_c;
+Note: breakpoint 233 also set at pc 0x771d6495.
+Breakpoint 234 at 0x771d6495
+<function, no debug info> vsnprintf_c;
+Breakpoint 235 at 0x771d64c5
+<function, no debug info> msvcrt!_vsnprintf_c_l;
+Note: breakpoint 235 also set at pc 0x771d64c5.
+Breakpoint 236 at 0x771d64c5
+<function, no debug info> vsnprintf_c_l;
+Breakpoint 237 at 0x771d65f6
+<function, no debug info> msvcrt!_vsnprintf_s_l;
+Note: breakpoint 237 also set at pc 0x771d65f6.
+Breakpoint 238 at 0x771d65f6
+<function, no debug info> vsnprintf_s_l;
+Breakpoint 239 at 0x771d6715
+<function, no debug info> msvcrt!_vsprintf_p;
+Note: breakpoint 239 also set at pc 0x771d6715.
+Breakpoint 240 at 0x771d6715
+<function, no debug info> vsprintf_p;
+Breakpoint 241 at 0x771d6745
+<function, no debug info> msvcrt!_vsprintf_p_l;
+Note: breakpoint 241 also set at pc 0x771d6745.
+Breakpoint 242 at 0x771d6745
+<function, no debug info> vsprintf_p_l;
+Breakpoint 243 at 0x771d6775
+<function, no debug info> msvcrt!_vsprintf_s_l;
+Note: breakpoint 243 also set at pc 0x771d6775.
+Breakpoint 244 at 0x771d6775
+<function, no debug info> vsprintf_s_l;
+Breakpoint 245 at 0x771d6815
+<function, no debug info> msvcrt!_vsnwprintf;
+Note: breakpoint 245 also set at pc 0x771d6815.
+Breakpoint 246 at 0x771d6815
+<function, no debug info> vsnwprintf;
+Breakpoint 247 at 0x771d6848
+<function, no debug info> msvcrt!_vsnwprintf_l;
+Note: breakpoint 247 also set at pc 0x771d6848.
+Breakpoint 248 at 0x771d6848
+<function, no debug info> vsnwprintf_l;
+Breakpoint 249 at 0x771d6936
+<function, no debug info> msvcrt!_vsnwprintf_s_l;
+Note: breakpoint 249 also set at pc 0x771d6936.
+Breakpoint 250 at 0x771d6936
+<function, no debug info> vsnwprintf_s_l;
+Breakpoint 251 at 0x771d6a55
+<function, no debug info> msvcrt!_vswprintf_c;
+Note: breakpoint 251 also set at pc 0x771d6a55.
+Breakpoint 252 at 0x771d6a55
+<function, no debug info> vswprintf_c;
+Breakpoint 253 at 0x771d6a85
+<function, no debug info> msvcrt!_vswprintf_c_l;
+Note: breakpoint 253 also set at pc 0x771d6a85.
+Breakpoint 254 at 0x771d6a85
+<function, no debug info> vswprintf_c_l;
+Breakpoint 255 at 0x771d6be5
+<function, no debug info> msvcrt!_vswprintf_p_l;
+Note: breakpoint 255 also set at pc 0x771d6be5.
+Breakpoint 256 at 0x771d6be5
+<function, no debug info> vswprintf_p_l;
+Breakpoint 257 at 0x771d6c15
+<function, no debug info> msvcrt!_vswprintf_s_l;
+Note: breakpoint 257 also set at pc 0x771d6c15.
+Breakpoint 258 at 0x771d6c15
+<function, no debug info> vswprintf_s_l;
+Breakpoint 259 at 0x771d6cb5
+<function, no debug info> msvcrt!_vwprintf_l;
+Note: breakpoint 259 also set at pc 0x771d6cb5.
+Breakpoint 260 at 0x771d6cb5
+<function, no debug info> vwprintf_l;
+Breakpoint 261 at 0x771d6ce5
+<function, no debug info> msvcrt!_vwprintf_p;
+Note: breakpoint 261 also set at pc 0x771d6ce5.
+Breakpoint 262 at 0x771d6ce5
+<function, no debug info> vwprintf_p;
+Breakpoint 263 at 0x771d6d15
+<function, no debug info> msvcrt!_vwprintf_p_l;
+Note: breakpoint 263 also set at pc 0x771d6d15.
+Breakpoint 264 at 0x771d6d15
+<function, no debug info> vwprintf_p_l;
+Breakpoint 265 at 0x771d6d45
+<function, no debug info> msvcrt!_vwprintf_s_l;
+Note: breakpoint 265 also set at pc 0x771d6d45.
+Breakpoint 266 at 0x771d6d45
+<function, no debug info> vwprintf_s_l;
+Breakpoint 267 at 0x771d6d75
+<function, no debug info> msvcrt!vwprintf;
+Note: breakpoint 267 also set at pc 0x771d6d75.
+Breakpoint 268 at 0x771d6d75
+<function, no debug info> vwprintf;
+Breakpoint 269 at 0x771d6da5
+<function, no debug info> msvcrt!vwprintf_s;
+Note: breakpoint 269 also set at pc 0x771d6da5.
+Breakpoint 270 at 0x771d6da5
+<function, no debug info> vwprintf_s;
+Breakpoint 271 at 0x771d7825
+<function, no debug info> msvcrt!_wprintf_l;
+Note: breakpoint 271 also set at pc 0x771d7825.
+Breakpoint 272 at 0x771d7825
+<function, no debug info> wprintf_l;
+Breakpoint 273 at 0x771d7845
+<function, no debug info> msvcrt!_wprintf_p;
+Note: breakpoint 273 also set at pc 0x771d7845.
+Breakpoint 274 at 0x771d7845
+<function, no debug info> wprintf_p;
